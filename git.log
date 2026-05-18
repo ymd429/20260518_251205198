@@ -1,0 +1,50 @@
+commit 6782a6522610dd30c25eea6e70606087eaabe99d
+Author: Hayato Yamada <yha04@users.noreply.github.com>
+Date:   Mon May 18 14:26:09 2026 +0900
+
+    カラーチェンジ
+    
+    cyanをskybiueに
+
+commit b6045a78c736fe0881b8370279092d94040bfac5
+Merge: d69556d ac21484
+Author: Hayato Yamada <yha04@users.noreply.github.com>
+Date:   Mon May 18 14:24:49 2026 +0900
+
+    カラーチェンジ
+    
+    cyanをskybiueに
+
+commit d69556d9d05c096a105e01a244fa90505be373aa
+Author: Hayato Yamada <yha04@users.noreply.github.com>
+Date:   Mon May 18 14:18:25 2026 +0900
+
+    ピースの色を変更
+    
+    blueをskyblue
+
+commit ac2148416adb87dc10b50478a348369f1c465b28
+Author: 山田隼斗 <251205198@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:17:51 2026 +0900
+
+    ピースの色を変更
+    
+    cyanをskyblueに
+
+commit e7350728c90c10b65b819c736b7c972414e3c2f6
+Author: Hayato Yamada <yha04@users.noreply.github.com>
+Date:   Mon May 18 14:09:06 2026 +0900
+
+    ミノのスピードを遅くした
+
+commit 77a39f61639322f77bf2c1a2fc4d54dec2278712
+Author: Hayato Yamada <yha04@users.noreply.github.com>
+Date:   Mon May 18 13:54:42 2026 +0900
+
+    greenからlimeに
+
+commit 1a1b37b3f532f2d284017b9b08993b8e4e974686
+Author: Hayato Yamada <yha04@users.noreply.github.com>
+Date:   Mon May 18 13:32:51 2026 +0900
+
+    canvas-tetrisのソースコードをインポート
